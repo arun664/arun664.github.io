@@ -1166,6 +1166,7 @@ select.portfolio-filter-mobile {
   outline: 0;
   margin-bottom: 30px;
   position: relative;
+  height: 42px;
   width: 100%;
 }
 
@@ -1173,7 +1174,6 @@ select.portfolio-filter-mobile {
   position: relative;
 }
 .pf-filter-wrapper:after {
-  content: "";
   font-family: "FontAwesome";
   position: absolute;
   top: 0;
